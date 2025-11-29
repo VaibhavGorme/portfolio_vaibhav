@@ -115,14 +115,6 @@ app.innerHTML = `
             <li>Focus: Debugging, measurements, documentation & reliability</li>
           </ul>
         </div>
-        <div class="about-card">
-          <h3>Languages Known</h3>
-          <ul class="about-list">
-            <li>English</li>
-            <li>Hindi</li>
-            <li>Marathi</li>
-          </ul>
-        </div>
       </div>
     </div>
   </section>
